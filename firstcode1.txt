@@ -1,3 +1,6 @@
 abcdefgh
 hello
 high
+hjkloiu
+git diff
+git add
